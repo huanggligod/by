@@ -1,5 +1,6 @@
 <template>
 <div>wang</div>
+<div>wang</div>
 </template>
 
 <script>
