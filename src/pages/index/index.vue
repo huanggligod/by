@@ -2,6 +2,7 @@
 	<div class="index">
 		<!-- <swiper></swiper> -->
 		<img class="img" src="/static/image/swiper.png" alt="banner">
+		
 	</div>
 </template>
 
